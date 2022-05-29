@@ -131,6 +131,8 @@ p {
   width: 100%;
 }
 
+
+
 .row [class^="col"] {
   float: left;
   margin: 0.5rem 2%;
@@ -278,6 +280,9 @@ p {
     width: 65%;
     padding-top: 10px;
     padding-left: 100px;
+  }
+  .col-15 {
+    width: 60%;
   }
 
   .hidden-sm {
